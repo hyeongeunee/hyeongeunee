@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🧲 Contacts ──
+## 🧸 About Me ──
 <a href="https://velog.io/@hyeon_geun"><img src="https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
 <a href="hhg7899@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
